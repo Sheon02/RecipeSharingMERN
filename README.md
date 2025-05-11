@@ -1,8 +1,9 @@
-#🍽️ MERN Recipe Sharing Web Application
-##📌 Introduction
+🍽️ MERN Recipe Sharing Web Application
+
+📌 Introduction
 Welcome to the Recipe Sharing Web App, a full-stack MERN application that allows users to create, share, browse, and save their favorite recipes. The platform is designed to provide a seamless and interactive experience for food enthusiasts to connect over cooking.
 
-##🛠️ Technologies Used
+🛠️ Technologies Used
 Frontend
 React.js – For building responsive and dynamic user interfaces.
 
